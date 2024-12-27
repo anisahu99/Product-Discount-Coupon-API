@@ -1,0 +1,12 @@
+{
+    "products": [
+      { "id": "1", "name": "Product A" },
+      { "id": "2", "name": "Product B" }
+    ],
+    "users": [
+      { "id": "1", "name": "John Doe" },
+      { "id": "2", "name": "Jane Doe" }
+    ],
+    "coupons": []
+  }
+  
